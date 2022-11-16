@@ -1,0 +1,5 @@
+Q Learning from sratch with ε-greedy algorithm
+
+Nothing fancy, just a carrier picking up the item to drop it to drop point
+No csv parsing, so it learns from beginning everytime. It is fast enough.
+There could/should be many improvements to the code.
