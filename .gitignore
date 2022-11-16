@@ -1,0 +1,9 @@
+
+*.d
+*.o
+*.mk
+notes.txt
+Debug/makefile
+Debug/q_table_c.csv
+q_table_c.csv
+Debug/CarrierAi
