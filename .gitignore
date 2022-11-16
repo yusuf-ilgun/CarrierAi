@@ -7,3 +7,8 @@ Debug/makefile
 Debug/q_table_c.csv
 q_table_c.csv
 Debug/CarrierAi
+.settings/language.settings.xml
+*.prefs
+Default/makefile
+.project
+.cproject
